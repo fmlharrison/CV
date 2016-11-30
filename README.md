@@ -1,7 +1,8 @@
-## Your Name
+## Felix Harrison
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Blog](https://agentlemanscodeblog.wordpress.com/) | [LinkedIn](https://uk.linkedin.com/in/felix-harrison-53922453)
 
+I'm Felix - a developer, traveller, lycra clad cyclist, and spicy food enthusiast.   
 ## Skills
 
 #### This Skill
