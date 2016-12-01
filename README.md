@@ -20,12 +20,14 @@ When I was an English teacher, it was my job to talk to and engage not only with
 
 I gained valuable problem solving and analytical skills while doing my degree in Forensic Science. I found that the modules that relied heavily on physical science and analytics, were the ones I enjoyed the most and excelled at.
 
+During my time as a trader, I was dealing with clients from all over the world and negotiating high value deals each week. I was in charge of reviewing all the component of a deal, in charge of it every step of the way - from garden to cup, pricing each step and ensuring that the product arrived to the client on time and in perfect condition.   
+
+### Fast and Active Learner
+
+Learning something new has always excited me and I enjoy the benefits of learning a new skill. I actively try to include learning in all aspects of my life. I love languages and spending time abroad has given me the opportunity to learn Italian and Japanese.
 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+As a developer, I strongly believe you are a Knowledge Worker and continuos learning is one of the most rewarding thing about coding.  
 
 ## Education
 
