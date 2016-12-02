@@ -26,31 +26,46 @@ During my time as a trader, I was dealing with clients from all over the world a
 
 Learning something new has always excited me and I enjoy the benefits of learning a new skill. I actively try to include learning in all aspects of my life. I love languages and spending time abroad has given me the opportunity to learn Italian and Japanese.
 
+As a developer, I strongly believe you are a Knowledge Worker and continuos learning is one of the most rewarding thing about coding. Ruby is the main language focus of the course but we were tasked with learning Javascript in one week and building a single page app using JS, JQuery and AJAX. All the high level skills I have learnt at Makers made this relatively simple and exciting and has pushed me to learn more an more languages.   
 
-As a developer, I strongly believe you are a Knowledge Worker and continuos learning is one of the most rewarding thing about coding.  
+## Projects
+
+Project | Description | Timeframe | Technologies | Testing
+------------- | ----------- | --------------------- | ------------ | -------
+[Haysta:K](https://github.com/fbell123/haystak)| A Chrome extension search tool to helper users find answers to FAQs/PAQs quickly & effectively [here](https://chrome.google.com/webstore/detail/haystak/menbljajicjikigkpahaonmcjhmjknpo?utm_source=gmail)| 4 days | JavaScript| Jasmine
+[Makersyelp](https://github.com/fmlharrison/makersyelp)| A yelp clone | Ruby on Rails, Active Record | 4 days | Ruby | RSpec, Cucumber
+[Thermostat](https://github.com/fmlharrison/thermostat_js)| Single Page Thermostat App | JavaScript, JQuery | Jasmine
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (August 2016 to December 2016)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
+A 16-week Web Development Immersive bootcamp, focusing on:
+
+- Pair programming
+- Object-oriented programming
+- Agile practices
+- Test Driven Development and Constant Integration.
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### University of Kent (September 2008 to June 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+**Forensic Science BSc**
+*Upper Second Class with Honours*
 
-#### Any other qualifications
+#### TEFL Teaching Certificate with i-to-i
+
+*3-month part time course to become an a Teacher of English as a Foreign Language*
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Alchemy, Kobe** (September 2014 to September 2015)    
+*General Manager/ Events Co-ordinator*
+
+**iTTTi Japan** (July 2013 to September 2014)   
+*Lead English Teacher*  
+
+**Thompson, Lloyd & Ewart** (December 2011 - May 2012)
+*Tea Broker*
