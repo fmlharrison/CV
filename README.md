@@ -52,7 +52,7 @@ A 16-week Web Development Immersive bootcamp, focusing on:
 
 #### University of Kent (September 2008 to June 2011)
 
-**Forensic Science BSc**
+**Forensic Science BSc**  
 *Upper Second Class with Honours*
 
 #### TEFL Teaching Certificate with i-to-i
