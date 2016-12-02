@@ -67,5 +67,5 @@ A 16-week Web Development Immersive bootcamp, focusing on:
 **iTTTi Japan** (July 2013 to September 2014)   
 *Lead English Teacher*  
 
-**Thompson, Lloyd & Ewart** (December 2011 - May 2012)
+**Thompson, Lloyd & Ewart** (December 2011 - May 2012)  
 *Tea Broker*
