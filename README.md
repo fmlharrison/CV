@@ -1,6 +1,6 @@
 ## Felix Harrison
 
-[Skills](##skills) | [Education](##education) | [Experience](##experience) | [Projects](##projects) | [Blog](https://agentlemanscodeblog.wordpress.com/) | [LinkedIn](https://uk.linkedin.com/in/felix-harrison-53922453)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | [Blog](https://agentlemanscodeblog.wordpress.com/) | [LinkedIn](https://uk.linkedin.com/in/felix-harrison-53922453)
 
 I'm Felix - a developer, traveller, lycra clad cyclist, and spicy food enthusiast. I tried my hand at a few things following my graduation from univeristy with a 2:1 honours degrees in Forensic Science. I tasted and traded tea for 6 months, taught English in three continents over a 4 year period and ran an international hostel and live music venue in Japan for a year and a half.
 
@@ -16,7 +16,7 @@ Communication has been a integral part of all my previous roles and as a develop
 
 When I was an English teacher, it was my job to talk to and engage not only with students, but also with their parents. I learnt that it was not just verbal communication that was important because I frequently found myself communicating with people who didn't have a strong grasp of the English language. I learnt how to overcome language barriers through lots of different types of communication and as a result was able to build strong relationships with my students and their parents.  
 
-#### Problem Solving
+### Problem Solving
 
 I gained valuable problem solving and analytical skills while doing my degree in Forensic Science. I found that the modules that relied heavily on physical science and analytics, were the ones I enjoyed the most and excelled at.
 
