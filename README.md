@@ -35,7 +35,7 @@ Project | Description | Technologies | Timeframe | Testing
 [Ensemble](https://github.com/ensemble-team/ensemble)| A Web Platfrom where musicians can collaborate on projects with others from around the world [Check it out](https://ensemble-app.herokuapp.com/)| Ruby on Rails, Postgres, Javascript, HTML, CSS | 10 days | RSpec, Capybara   
 [Haysta:K](https://github.com/fbell123/haystak)| A Chrome extension search tool to helper users find answers to FAQs/PAQs quickly & effectively [here](https://chrome.google.com/webstore/detail/haystak/menbljajicjikigkpahaonmcjhmjknpo?utm_source=gmail)| JavaScript | 4 days  | Jasmine
 [Makersyelp](https://github.com/fmlharrison/makersyelp)| A yelp clone | Ruby on Rails, Active Record | 4 days | Ruby | RSpec, Cucumber
-[Thermostat](https://github.com/fmlharrison/thermostat_js)| Single Page Thermostat App | JavaScript, JQuery | Jasmine
+[Thermostat](https://github.com/fmlharrison/thermostat_js)| Single Page Thermostat App | JavaScript, JQuery | 4 days | Jasmine
 
 
 ## Education
