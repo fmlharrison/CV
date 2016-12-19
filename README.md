@@ -1,6 +1,6 @@
 ## Felix Harrison
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Blog](https://agentlemanscodeblog.wordpress.com/) | [LinkedIn](https://uk.linkedin.com/in/felix-harrison-53922453)
+[Skills](##skills) | [Education](##education) | [Experience](##experience) | [Projects](##projects) | [Blog](https://agentlemanscodeblog.wordpress.com/) | [LinkedIn](https://uk.linkedin.com/in/felix-harrison-53922453)
 
 I'm Felix - a developer, traveller, lycra clad cyclist, and spicy food enthusiast. I tried my hand at a few things following my graduation from univeristy with a 2:1 honours degrees in Forensic Science. I tasted and traded tea for 6 months, taught English in three continents over a 4 year period and ran an international hostel and live music venue in Japan for a year and a half.
 
@@ -32,6 +32,7 @@ As a developer, I strongly believe you are a Knowledge Worker and continuos lear
 
 Project | Description | Technologies | Timeframe | Testing
 ------------- | ----------- | --------------------- | ------------ | -------
+[Ensemble](https://github.com/ensemble-team/ensemble)| A Web Platfrom where musicians can collaborate on projects with others from around the world [Check it out](https://ensemble-app.herokuapp.com/)| Ruby on Rails, Postgres, Javascript, HTML, CSS | 10 days | RSpec, Capybara   
 [Haysta:K](https://github.com/fbell123/haystak)| A Chrome extension search tool to helper users find answers to FAQs/PAQs quickly & effectively [here](https://chrome.google.com/webstore/detail/haystak/menbljajicjikigkpahaonmcjhmjknpo?utm_source=gmail)| JavaScript | 4 days  | Jasmine
 [Makersyelp](https://github.com/fmlharrison/makersyelp)| A yelp clone | Ruby on Rails, Active Record | 4 days | Ruby | RSpec, Cucumber
 [Thermostat](https://github.com/fmlharrison/thermostat_js)| Single Page Thermostat App | JavaScript, JQuery | Jasmine
