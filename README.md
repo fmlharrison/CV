@@ -32,7 +32,7 @@ As a developer, I strongly believe you are a Knowledge Worker and continuos lear
 
 Project | Description | Technologies | Timeframe | Testing
 ------------- | ----------- | --------------------- | ------------ | -------
-[Haysta:K](https://github.com/fbell123/haystak)| A Chrome extension search tool to helper users find answers to FAQs/PAQs quickly & effectively [here](https://chrome.google.com/webstore/detail/haystak/menbljajicjikigkpahaonmcjhmjknpo?utm_source=gmail)| 4 days | JavaScript| Jasmine
+[Haysta:K](https://github.com/fbell123/haystak)| A Chrome extension search tool to helper users find answers to FAQs/PAQs quickly & effectively [here](https://chrome.google.com/webstore/detail/haystak/menbljajicjikigkpahaonmcjhmjknpo?utm_source=gmail)| JavaScript | 4 days  | Jasmine
 [Makersyelp](https://github.com/fmlharrison/makersyelp)| A yelp clone | Ruby on Rails, Active Record | 4 days | Ruby | RSpec, Cucumber
 [Thermostat](https://github.com/fmlharrison/thermostat_js)| Single Page Thermostat App | JavaScript, JQuery | Jasmine
 
