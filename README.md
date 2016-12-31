@@ -18,15 +18,15 @@ When I was an English teacher, it was my job to talk to and engage not only with
 
 ### Problem Solving
 
-I gained valuable problem solving and analytical skills while doing my degree in Forensic Science. I found that the modules that relied heavily on physical science and analytics, were the ones I enjoyed the most and excelled at.
+I gained valuable problem solving and analytical skills while doing my degree in Forensic Science. I found that the modules that relied heavily on physical science, mathematics and analytics, were the ones I excelled at and enjoyed the most.
 
-During my time as a trader, I was dealing with clients from all over the world and negotiating high value deals each week. I was in charge of reviewing all the component of a deal, in charge of it every step of the way - from garden to cup, pricing each step and ensuring that the product arrived to the client on time and in perfect condition.   
+During my time as a trader, I was dealing with clients from all over the world and negotiating high value deals each week. I was in charge of reviewing all the components of a deal, in charge of it every step of the way - from garden to cup, pricing each step, often overcoming problems that would crop up during the lifetime of the contract and ensuring that the product arrived to the client on time and in perfect condition.   
 
 ### Fast and Active Learner
 
 Learning something new has always excited me and I enjoy the benefits of learning a new skill. I actively try to include learning in all aspects of my life. I love languages and spending time abroad has given me the opportunity to learn Italian and Japanese.
 
-As a developer, I strongly believe you are a Knowledge Worker and continuos learning is one of the most rewarding thing about coding. Ruby is the main language focus of the course but we were tasked with learning Javascript in one week and building a single page app using JS, JQuery and AJAX. All the high level skills I have learnt at Makers made this relatively simple and exciting and has pushed me to learn more an more languages.   
+As a developer, I strongly believe you are a Knowledge Worker and continuos learning is one of the most rewarding thing about coding. Ruby is the main language focus of the course but we were tasked with learning Javascript in one week and building a single page app using JS, JQuery and AJAX. I am currently teaching myself Java in order to start developing Android apps. All the high level skills I have learnt at Makers made this relatively simple and exciting and pushes me to learn more an more languages.   
 
 ## Projects
 
@@ -48,8 +48,8 @@ A 16-week Web Development Immersive bootcamp, focusing on:
 - Object-oriented programming
 - Agile practices
 - Test Driven Development and Constant Integration.
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js
+- Rspec, Cucumber, Jasmine, Mocha
 
 #### University of Kent (September 2008 to June 2011)
 
