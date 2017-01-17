@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | [Blog](https://agentlemanscodeblog.wordpress.com/) | [LinkedIn](https://uk.linkedin.com/in/felix-harrison-53922453)
 
-I'm Felix - a developer, traveller, lycra clad cyclist, and spicy food enthusiast. I tried my hand at a few things following my graduation from univeristy with a 2:1 honours degrees in Forensic Science. I tasted and traded tea for 6 months, taught English in three continents over a 4 year period and ran an international hostel and live music venue in Japan for a year and a half.
+I'm Felix - a developer, traveller, lycra clad cyclist, and spicy food enthusiast. I tried my hand at a few things following my graduation from univeristy with a 2:1 honours degrees in Forensic Science. I tasted and traded tea for 6 months, taught English in three continents over a 4 year period and ran an international hostel and live music venue in Japan for over a year.
 
 Following a three month trip around South America after saying goodbye to Japan, I returned to the UK with the dream of becoming a developer and so I dived head first in the world of programming.
 
@@ -10,7 +10,7 @@ I have recently graduated from a 16-week intensive coding bootcamp at Makers Aca
 
 ## Skills
 
-#### Communication
+### Communication
 
 Communication has been a integral part of all my previous roles and as a developer,  I believe it is very important to be able to succinctly communicate your ideas, views and concepts to your colleagues and clients.
 
